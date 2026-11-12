@@ -15,7 +15,7 @@ st.set_page_config(
 # --------------------------------------------------
 # Title
 # --------------------------------------------------
-st.title("	:baby_chick: JDN's TTS")
+st.title("❤️ JDN's TTS")
 
 st.write(
     "Generate speech using Streamlit, "
